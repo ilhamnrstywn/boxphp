@@ -95,7 +95,7 @@
       </tr>
     </table>
   <?php else: ?>
-    <?php echo "Tolong ceklis semuanya" ?>
+    <?php echo "Coba Ceklis Semua" ?>
 
   <?php endif; ?>
 
